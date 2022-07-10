@@ -1,0 +1,48 @@
+#booking input {
+    width: 49%;
+    /* padding: 0.5rem; */
+    border-radius: 10px;
+    font-size: 0.5rem;
+}
+#booking label {
+    font-size: 0.8rem;
+    
+}
+
+#home{
+    width: 200px;
+    font-size: 13px;
+    line-height: 2.5rem;
+}
+#menu-services{
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+ 
+}
+.h-primary{
+    padding: 0px;
+}
+#li{
+    margin: 0px;
+    padding: 5px;
+    font-size: 1rem;
+}
+.primary{
+    font-size: 10px;
+    height: 20vh;
+    width: 55%;
+}
+.discove{
+    font-size: 1px;
+    height: 100vh;
+    
+}
+/* nav {
+    display: block;
+    padding: 20px;
+    flex-direction: column;
+} */
+#book-here{
+    height: 70;
+}
